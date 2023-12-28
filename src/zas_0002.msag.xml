@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZAS_0002</ARBGB>
+    <MASTERLANG>T</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZAS_0002</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Sipariş Numarasına ve Kaleme Ait Teslimat Daha Önceden Oluşturulmuştur.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZAS_0002</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Teslimat Başarıyla Yaratıldı.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZAS_0002</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Malzeme Numarası yanlış veya miktarı stokta yok.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZAS_0002</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Aradığınız belge bulunamadı.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZAS_0002</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Seçilen Veri Başarıyla Silinmiştir.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
